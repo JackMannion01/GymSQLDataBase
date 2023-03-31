@@ -7,7 +7,7 @@ Completed gym data model with corresponding subqueries related to efficient mana
 - Claire Shur
 -  Kole Piercy
 -  Jade Naughton
--  Chris Richards
+-  Chris Richards (https://github.com/Chris-Richards3/MySQL-Project)
 -  Jack Mannion (https://github.com/JackMannion01/GymSQLDataBase)
 
 # Problem Description

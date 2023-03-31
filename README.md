@@ -4,7 +4,11 @@ Completed gym data model with corresponding subqueries related to efficient mana
 
 # TEAM: 21482_8 and Team Members
 
-Claire Shur, Kole Piercy, Jade Naughton, Chris Richards, Jack Mannion
+- Claire Shur
+-  Kole Piercy
+-  Jade Naughton
+-  Chris Richards
+-  Jack Mannion (https://github.com/JackMannion01/GymSQLDataBase)
 
 # Problem Description
 
